@@ -177,3 +177,9 @@ Loan-Eligibility-Prediction/
 ├── README.md                # Documentation
 
 └── requirements.txt         # Dependencies (optional)
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
+![ML](https://img.shields.io/badge/Machine%20Learning-Classification-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/Nandan0402/Loan-Eligibility-Prediction?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Nandan0402/Loan-Eligibility-Prediction?style=for-the-badge)
