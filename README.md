@@ -48,20 +48,35 @@ Manual loan approval:
 The dataset used is loan_data_set.csv.
 
 📄 Column Description
+
 Column	Description
+
 🆔 Loan_ID	Unique loan identifier
+
 🚻 Gender	Applicant gender
+
 💍 Married	Marital status
+
 👨‍👩‍👧 Dependents	Number of dependents
+
 🎓 Education	Graduate / Not Graduate
+
 🧑‍💼 Self_Employed	Employment status
+
 💰 ApplicantIncome	Applicant income
+
 💵 CoapplicantIncome	Co-applicant income
+
 🏦 LoanAmount	Loan amount
+
 ⏳ Loan_Amount_Term	Loan term (months)
+
 📊 Credit_History	Credit history record
+
 🌍 Property_Area	Urban / Semiurban / Rural
+
 ✅ Loan_Status	Approved (Y) / Rejected (N)
+
 🛠️ Technologies Used
 <p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/> </p>
 🧠 Methodology
@@ -151,9 +166,14 @@ This project focuses on strong Machine Learning fundamentals and mirrors real-wo
 ⭐ If you find this project useful, please star the repository.
 
 📁 Project Structure
+
 Loan-Eligibility-Prediction/
+
 │
 ├── loan_data_set.csv        # Dataset
+
 ├── loan_prediction.ipynb    # ML implementation
+
 ├── README.md                # Documentation
+
 └── requirements.txt         # Dependencies (optional)
